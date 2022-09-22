@@ -2,7 +2,7 @@ package homework_06.task_02;
 
 import java.lang.annotation.*;
 /**
- * @author Maxim Salikov
+ * @author FIO
  */
 @Documented
 @Target({ElementType.TYPE,ElementType.FIELD,ElementType.METHOD})
